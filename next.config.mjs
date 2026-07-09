@@ -3,7 +3,7 @@ const nextConfig = {
   output: "export",
   trailingSlash: true,
   basePath: "/taskManager",
-  assetPrefix: "/taskManager/",
+
   images: {
     unoptimized: true,
   },
